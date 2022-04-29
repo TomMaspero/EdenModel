@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1621145454 source:c:\users\tdmal\onedrive\desktop\pasantía\eden 1.0\glut.c
+	"glut.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\pasantía\eden 1.0\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1426360528 c:\mingw\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426360528 c:\mingw\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426360528 c:\mingw\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1621655809 source:c:\users\tdmal\onedrive\desktop\pasantía\eden 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"glut.h"
+
+1621660288 source:c:\users\tdmal\onedrive\desktop\pasantía\eden 2.0\glut.c
+	"glut.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\pasantía\eden 2.0\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1621708951 source:c:\users\tdmal\onedrive\desktop\pasantía\eden 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"glut.h"
+	<unistd.h>
+
+1651110654 source:c:\users\tom\desktop\things\pasantía\eden\eden 2.0\glut.c
+	<GL/gl.h>
+	"glut.h"
+
+1620159713 c:\users\tom\desktop\things\pasantía\eden\eden 2.0\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1651110647 source:c:\users\tom\desktop\things\pasantía\eden\eden 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<GL/gl.h>
+	"glut.h"
+	<unistd.h>
+
